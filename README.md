@@ -59,7 +59,7 @@ Awesome Nostr in Argentina. Software, web services, clients, and bots created by
 
 ## License
 
-- [Example](https://example.com) - Description by [user](https://example.com/user)
+MIT
 
 ## Author
 
