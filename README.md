@@ -51,7 +51,9 @@ Awesome Nostr in Argentina. Software, web services, clients, and bots created by
 
 ## Videos
 
-- [Example](https://example.com) - Description by [user](https://example.com/user)
+- [NOSTR, the web3 on top of Bitcoin](https://www.youtube.com/watch?v=d77FIAGO8nQ) - LaBitconf conference 2023 by [Agustín Kassis](https://github.com/agustinkassis)
+- [What is Nostr?](https://www.youtube.com/watch?v=nO5rb_OM9Rw) - Workshop by [Negr0](https://primal.net/p/npub1yrffsyxk5hujkpz6mcpwhwkujqmdwswvdp4sqs2ug26zxmly45hsfpn8p0)
+- [How Nostr works: the kitchen](https://www.youtube.com/watch?v=cZ7dlotLeXw) - Workshop by [Jota](https://github.com/jjramirezn)
 
 ## Events
 
