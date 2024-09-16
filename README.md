@@ -3,7 +3,8 @@ Awesome Nostr in Argentina. Software, web services, clients, and bots created by
 
 ## Relays
 
-- `wss://example.com` - Description by [user](https://example.com/user)
+- `wss://relay.hodl.ar` - By [La Crypta](https://github.com/lacrypta)
+- `wss://relay.lawallet.ar` - By [LaWallet](https://github.com/lawalletio)
 
 ## Web Services
 
