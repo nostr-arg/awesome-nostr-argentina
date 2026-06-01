@@ -8,7 +8,7 @@ Awesome Nostr in Argentina. Software, web services, clients, and bots created by
 
 ## Web Services
 
-- [Example](https://example.com) - Description by [user](https://example.com/user)
+- [Obelisk](https://github.com/obelisk-app/obelisk) - Decentralized Nostr-native chat and voice with WoT filtering and mediasoup SFU by [Obelisk](https://github.com/obelisk-app)
 
 ## Web Clients
 
@@ -24,7 +24,7 @@ Awesome Nostr in Argentina. Software, web services, clients, and bots created by
 
 ## Relay implementations
 
-- [Example](https://example.com) - Description by [user](https://example.com/user)
+- [Obelisk Relay](https://github.com/obelisk-app/obelisk-relay) - NIP-29 Nostr Groups Relay for the Obelisk ecosystem by [Obelisk](https://github.com/obelisk-app)
 
 ## Tools
 
@@ -32,7 +32,7 @@ Awesome Nostr in Argentina. Software, web services, clients, and bots created by
 
 ## Bots
 
-- [Example](https://example.com) - Description by [user](https://example.com/user)
+- [Obelisk Bots](https://github.com/obelisk-app/obelisk-bots) - Nostr bots for the Obelisk ecosystem and NIP-29 groups by [Obelisk](https://github.com/obelisk-app)
 
 ## Libraries
 
